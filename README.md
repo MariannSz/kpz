@@ -1,2 +1,2 @@
 # kpz
-first iteratiom to show of a simple static webpage project
+first iteration to show of a simple static webpage project
