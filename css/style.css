@@ -1,0 +1,42 @@
+#details{
+	list-style-type: square;
+}
+.hatekony-top {
+	padding-top: 10rem;
+	padding-bottom: calc(10rem - 56px);
+  	background-image: url("../img/hatekony_top.jpg");
+  	background-position: center center;
+  	background-size: cover;
+}
+
+.haromd-top {
+	padding-top: 10rem;
+	padding-bottom: calc(10rem - 56px);
+  	background-image: url("../img/3d_top.jpg");
+  	background-position: center center;
+  	background-size: cover;
+}
+
+.rugalmas-top {
+	padding-top: 10rem;
+	padding-bottom: calc(10rem - 56px);
+  	background-image: url("../img/rugalmas_top.jpg");
+  	background-position: center center;
+  	background-size: cover;
+}
+
+.bg-courses {
+	background: linear-gradient(to left, rgba(110, 118, 136, 1) 0%, rgba(168, 193, 202, 1) 100%);
+}
+
+.bg-description {
+	background: linear-gradient(to left, rgba(182, 219, 192, 1) 0%, rgba(168, 193, 202, 1) 100%);
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#btns {
+	width: 280px;
+}
