@@ -17,7 +17,7 @@ body {
 hr {
   /*max-width: 50px;*/
   border-width: 3px;
-  border-color: #1F9898;
+  border-color: #1F3263;
 }
 
 hr.light {
@@ -44,12 +44,12 @@ h6 {
 }
 
 .bg-primary {
-  /*background-color: #5EBEAB !important;*/
-  background: linear-gradient(to left, rgba(168, 193, 202, 1) 0%, rgba(182, 219, 192, 1) 100%); 182, 219, 192
+  background-color: #DCDFE4 !important;
+  /*background: linear-gradient(to left, rgba(133, 89, 153, 1) 0%, rgba(58, 77, 126, 1) 100%);*/
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #8C99BA !important;
 }
 
 .text-faded {
@@ -125,7 +125,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #F05F40 !important;
+  color: #F05F40 !important; /*colour of current menu 08/01/2019*/
   background-color: transparent;
 }
 
@@ -228,7 +228,7 @@ header.masthead p {
 .portfolio-box {
   position: relative;
   display: block;
-/*  max-width: 650px;*/
+  max-width: 345px;
   margin: 0 auto;
 }
 
@@ -241,7 +241,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(255,145,110, 0.9);
+  background: rgba(94, 111, 154, 0.9);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -306,13 +306,13 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #FF916E; 
-  border-color: #FFBEA7;
+  background-color: #322165; 
+  border-color: #6A08A4;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #FFBEA7 !important;
+  background-color: #6A08A4 !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
