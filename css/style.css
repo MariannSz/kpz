@@ -2,6 +2,11 @@
 	list-style-type: square;
 }
 
+.Infini {
+	background-color: rgba(167, 164, 168, .7);
+	border-radius: 25px;
+}
+
 .hatekony-top {
 	padding-top: 10rem;
 	padding-bottom: calc(10rem - 56px);
