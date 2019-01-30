@@ -13,7 +13,6 @@ html {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
   line-height: 2em;
-  text-align: justify;
 }
 
 hr {
@@ -102,7 +101,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  font-size: .8rem;
+  font-size: .7rem;
   font-weight: 700;
   text-transform: uppercase;
   color: #F05F40;
@@ -115,7 +114,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-  font-size: .8rem;
+  font-size: .7rem;
   font-weight: 700;
   text-transform: uppercase;
   color: #212529;

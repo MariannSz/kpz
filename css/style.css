@@ -2,9 +2,13 @@
 	list-style-type: square;
 }
 
+#kompetenciafejlesztes, .bg-description p {
+	text-align: justify;
+}
+
 .Infini {
 	background-color: rgba(140, 153, 186, .7); /*167, 164, 168*/
-	padding: 7rem;
+	padding: 5rem .3rem;
 	border-radius: 25px;
 }
 
